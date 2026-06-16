@@ -13,6 +13,78 @@
       "skillPath": "skills/algorithmic-art/SKILL.md",
       "computedHash": "b2ca295de7f9c86c444f1fa21239e22e0eb7013ced1c652169b9402cc96ff744"
     },
+    "angular-component": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-component/SKILL.md",
+      "computedHash": "2789fdf11e2a70832ce2e6e79954018325a010ebdd45c5d4b1e7bfdf44679b7c"
+    },
+    "angular-developer": {
+      "source": "angular/skills",
+      "sourceType": "github",
+      "skillPath": "angular-developer/SKILL.md",
+      "computedHash": "a786c2637f1bece6324d6280b510aa8485b9ccda4a7ec62ca840c4fdab561ced"
+    },
+    "angular-di": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-di/SKILL.md",
+      "computedHash": "4d3dd9ecceec5642eea118aede824501bdec537b6b8735564a68787ec9617b75"
+    },
+    "angular-directives": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-directives/SKILL.md",
+      "computedHash": "b8ce636215ec0792839fe57c3632b475957bed1ebc404e9a1c54222e0e506bfa"
+    },
+    "angular-forms": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-forms/SKILL.md",
+      "computedHash": "a2e28f7c7c1b9b13f0a8212f403515886f9d23bf13732a355b1f5d01f5cc9d69"
+    },
+    "angular-http": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-http/SKILL.md",
+      "computedHash": "ad8821177929ea09eb94e7fc386d842c76c7f39b6c4d7aa3176ba3596dbabecc"
+    },
+    "angular-new-app": {
+      "source": "angular/skills",
+      "sourceType": "github",
+      "skillPath": "angular-new-app/SKILL.md",
+      "computedHash": "49bd84ab08bd3498c52f476bed48fbb942dc6dbc0925607e84549adbed34bccf"
+    },
+    "angular-routing": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-routing/SKILL.md",
+      "computedHash": "e54b8803da246042525e67effe7ea2a9dc26d5a50e857125793f579c7027aef3"
+    },
+    "angular-signals": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-signals/SKILL.md",
+      "computedHash": "ddedef1232295f200b966778bc36d16fc07d2113ad1dbc73d75d14eb544953bc"
+    },
+    "angular-ssr": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-ssr/SKILL.md",
+      "computedHash": "e4627d43ca867d14f3936e3246d0da54966baa63e87a541ae6ad4ee9286fa28c"
+    },
+    "angular-testing": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-testing/SKILL.md",
+      "computedHash": "66adf01ccb30305e179ce41ff76ded6b60dbb5909bd889cc350cdd13b6933130"
+    },
+    "angular-tooling": {
+      "source": "analogjs/angular-skills",
+      "sourceType": "github",
+      "skillPath": "skills/angular-tooling/SKILL.md",
+      "computedHash": "2a67063279e8ac1b5cf3d9c4e9ed4652508564640c1fc59642857d4f6d20db11"
+    },
     "brand-guidelines": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -67,6 +139,12 @@
       "skillPath": "skills/internal-comms/SKILL.md",
       "computedHash": "0bdc8867452b7ab9ef6167f6b0db2025ce5fb03773d3f85efcef2dfeb9d4976d"
     },
+    "jspecify-skill": {
+      "source": "sivaprasadreddy/sivalabs-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/jspecify/SKILL.md",
+      "computedHash": "9a88399105a2e479fca047c8e351b6ef81786e57ea749fe014986277cc46d90f"
+    },
     "mcp-builder": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -96,6 +174,12 @@
       "sourceType": "github",
       "skillPath": "skills/slack-gif-creator/SKILL.md",
       "computedHash": "fab4fcfcaed371071069d61a3ab94dff15d10d36403ff269d147ea986cd98083"
+    },
+    "spring-boot-skill": {
+      "source": "sivaprasadreddy/sivalabs-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/spring-boot/SKILL.md",
+      "computedHash": "f3669197a8016efee08b09c971eb919b2b4a6e33bb7ca048c699eaab70bd93ff"
     },
     "template-skill": {
       "source": "anthropics/skills",
